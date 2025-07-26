@@ -1,0 +1,108 @@
+body{
+    background-color: #d5bfe9;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+     .n1{
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 4;
+    margin-top: 0%;
+   right:0px;
+  }
+.d1 a:hover {
+  background-color: #6c757d; 
+  color: white;              
+}
+.a1 span{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    color: grey;
+
+}
+  footer {
+      background-color: #1a1a1a;
+      color: #ccc;
+      font-size: 14px;
+      padding: 10px 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    
+    }
+      
+    
+      .p1 {
+        margin: 0;
+        font-size: 18px;
+        padding: 6px;
+      }
+      .n1{
+        position: fixed;
+        left: 0;
+        top: 0;
+        z-index: 7;
+        margin-top: 0%;
+       right:0px;
+      }
+      .q1{
+        position: absolute;
+        left: 200;
+      }
+      
+      .container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: start;
+        gap: 20px;
+        padding: 5% 5% 40px; 
+        margin-top: 5%; 
+      }
+      
+      .left-img {
+        max-width: 100%;
+        width: 300px;
+        /* height: auto; */
+        flex: 1 1 300px;
+        border-radius: 10px;
+      }
+      
+      .right-text {
+        flex: 1 1 300px;
+        max-width: 600px;
+        margin-top: 2em; /* Responsive margin based on font size */
+      }
+      
+      .right-text h2 {
+        font-size: 32px;
+        color: #5b29a6;
+        margin-bottom: 10px;
+      }
+      
+      .right-text p {
+        font-size: 18px;
+        color: #4d007d;
+        line-height: 1.6;
+      }
+      .o1{
+        font-size: 48px;
+        color: #5b29a6;
+        margin-top: 20vh;
+        margin-left: 45%;
+        font-weight: bolder;
+      }
+      .v1 iframe{
+        margin-left: 13%;
+        width: 75%;
+        height: 80%;
+      }
+      .o2{
+        color:#5b29a6 ;
+        margin-left: 50%;
+        margin-top: 2%;
+        font-weight: bold;
+      }
+      
